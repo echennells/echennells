@@ -1,6 +1,8 @@
 # Eric Chennells
 
-Security consultant in Vancouver, BC. I run [Runlevel Security](https://runlevelsecurity.com), build payment tools for AI agents, and do agentic testing and hardening of Bitcoin node software with [libbitcoin](https://github.com/libbitcoin).
+I run [Runlevel Security](https://runlevelsecurity.com), a cybersecurity consultancy in Vancouver, BC. I help businesses and individuals prepare before something goes wrong, and I stay on the line when it does: security assessments, incident readiness, hardening across Microsoft 365, Linux, cloud and the software supply chain, and incident response. You work with me directly, from the first call to the written report. **[Book a consultation](https://runlevelsecurity.com/#contact)**.
+
+I also build payment tools for AI agents and do agentic testing and hardening of Bitcoin node software with [libbitcoin](https://github.com/libbitcoin).
 
 ## Building
 
